@@ -1,0 +1,27 @@
+Oluwatosin Omisore : c4omisor
+0,1,6880,/u/csc209h/winter/pub/bin/checkstep1 ,Step 1 successfully completed.
+1,2,6880,/u/csc209h/winter/pub/bin/checkstep2 ,The SHELL variable is not bash
+1,2,6880,/u/csc209h/winter/pub/bin/checkstep2 ,The SHELL variable is not bash
+1,2,6880,/u/csc209h/winter/pub/bin/checkstep2 ,The SHELL variable is not bash
+1,2,6880,/u/csc209h/winter/pub/bin/checkstep2 ,The SHELL variable is not bash
+1,2,6880,/u/csc209h/winter/pub/bin/checkstep2 ,The SHELL variable is not bash
+1,2,6880,/u/csc209h/winter/pub/bin/checkstep2 ,The SHELL variable is not bash
+1,2,6880,/u/csc209h/winter/pub/bin/checkstep2 ,The SHELL variable is not bash
+0,2,6880,/u/csc209h/winter/pub/bin/checkstep2 ,Step 2 successfully completed.
+0,3,6880,checkstep3 ,Step 3 successfully completed.
+0,2,6880,checkstep2 ,Step 2 successfully completed.
+0,5,6880,checkstep5 ,Step 5 successfully completed.
+0,5,6880,checkstep5 ,Step 5 successfully completed.
+1,5,6880,checkstep5 ,COLOUR does not exist
+0,3,6880,checkstep3 ,Step 3 successfully completed.
+0,3,6880,checkstep3 ,Step 3 successfully completed.
+0,3,6880,checkstep3 ,Step 3 successfully completed.
+1,5,6880,checkstep5 ,COLOUR does not exist
+1,5,6880,checkstep5 ,COLOUR does not exist
+1,5,6880,checkstep5 ,COLOUR does not exist
+0,6,6880,checkstep6 ,Step 6 successfully completed.
+0,7,6880,checkstep7 -p 24468 ,Step 7 successfully completed.
+0,71,6880,checkstep71 -p 24468 ,Step 7.1 successfully completed.
+0,72,6880,checkstep72 ,Step 7.2 successfully completed.
+1,8,6880,checkstep8 -n 61 ,Number of processes did not match.
+0,8,6880,checkstep8 -n 59 ,Step 8 successfully completed.
